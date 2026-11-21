@@ -1,1 +1,1 @@
-# DataStructureAlgorithmJS
+# Data Structure Algorithm JavaScript
